@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-2862040124-4079485462-896008920-1000</user>
+  <keys>
+    <key installerType="Msi" displayName="Nessus Agent (x64)" displayVersion="10.4.1.20157">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{c03231be-a8df-460c-92dc-16e9d7bf2b3f}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[C:\Program Files\Tenable\Nessus Agent\]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /X{c03231be-a8df-460c-92dc-16e9d7bf2b3f}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Tenable, Inc.]]></Publisher>
+      <InstallDate>20230711</InstallDate>
+      <InstallSource><![CDATA[C:\Users\vagrant\AppData\Local\Temp\chocolatey\nessus-agent\10.4.1\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>168034305</Version>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>true</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\Windows\Installer\4151d.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>
